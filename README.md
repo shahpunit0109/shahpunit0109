@@ -6,9 +6,12 @@ Machine Learning Engineer
 
 Welcome to my GitHub profile! I'm a passionate computer engineering undergraduate with a keen interest in software development, hardware design, and emerging technologies. Here, you'll find a collection of my coding projects, ranging from small personal experiments to larger collaborative efforts. I'm constantly learning and exploring new technologies, and I love to share my knowledge with the open-source community. My areas of expertise include programming languages such as Python, Java, and C++, as well as experience with embedded systems, machine learning, and web development. Feel free to explore my repositories, leave comments, or even collaborate on a project with me. Let's build the future together!
 
-*   🌍  I'm based in Mumbai
-*   ✉️  You can contact me at [punitshah1111@gmail.com](mailto:punitshah1111@gmail.com)
-*   🧠  I'm learning Machine and Deep learning### Skills 
+* 🌍  I'm based in Mumbai
+* ✉️  You can contact me at [punitshah1111@gmail.com](mailto:punitshah1111@gmail.com)
+* 🧠  I'm learning Machine and Deep learning
+
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -28,15 +31,14 @@ Welcome to my GitHub profile! I'm a passionate computer engineering undergraduat
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/shahpunit0109" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/punit-shah-8052461ab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/shahpunit0109"><img src="https://github-readme-stats.vercel.app/api?username=shahpunit0109&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shahpunit0109's GitHub stats" /></a><a
-                      href="http://www.github.com/shahpunit0109"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=shahpunit0109&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/shahpunit0109" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/punit-shah-8052461ab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/shahpunit0109"><img src="https://github-readme-stats.vercel.app/api?username=shahpunit0109&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shahpunit0109's GitHub stats" /></a>
+
+<a href="http://www.github.com/shahpunit0109"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shahpunit0109&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
